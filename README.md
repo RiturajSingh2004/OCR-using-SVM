@@ -207,7 +207,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Rituraj Singh**
-- GitHub: [@RiturajSingh](https://github.com/RiturajSingh2004)
+- GitHub: [@RiturajSingh2004](https://github.com/RiturajSingh2004)
 
 ## 🙏 Acknowledgments
 
